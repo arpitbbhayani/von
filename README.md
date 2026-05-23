@@ -1,3 +1,3 @@
-# von
+# Von
 
-Agentic SDLC to orchestrate autonomous software engineering.
+Agentic SDLC CLI tool.
